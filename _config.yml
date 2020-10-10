@@ -1,14 +1,14 @@
 # ----
 # Site
 
-title: Cause Template
-url: https://clean-oryx.cloudvent.net
+title: Locollect - payment collection through whatsapp reminders
+url: http://locollect.com
 baseurl:
 google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
-description: Jekyll template with example content for a not-for-profit organisation.
+logo: /images/locollect.png
+description: 
 author:
   name:
   email:
